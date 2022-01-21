@@ -125,7 +125,7 @@ def main():
   #==============================
   
   from PIL import Image
-  image = Image.open('/content/drive/MyDrive/Colab Notebooks/Twitter Sentiment Analysis/polar-blind-date.png')
+  image = Image.open('polar-blind-date (1).png')
   st.image(image, caption='Twitter for Analytics',use_column_width=True)
 
 
